@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/portfolio-banner.svg" alt="Yang Gao — Research Portfolio" width="100%" />
+</p>
+
 # Hi, I'm gyz0224
 
 **M.S. Student in Artificial Intelligence · Henan University**  
