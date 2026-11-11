@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Yang Gao — Research Portfolio</title>
+  <desc id="desc">Computer vision and image restoration research portfolio.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081426"/>
+      <stop offset="55%" stop-color="#102b46"/>
+      <stop offset="100%" stop-color="#123d4b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#a5f3fc"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#background)"/>
+  <circle cx="1000" cy="125" r="260" fill="url(#glow)"/>
+  <circle cx="1090" cy="250" r="155" fill="url(#glow)" opacity=".55"/>
+  <g fill="none" stroke="#8be9f7" stroke-opacity=".22" stroke-width="1.5">
+    <path d="M780 55 L900 115 L1030 70 L1140 145 L1040 250 L900 220 L790 285"/>
+    <path d="M900 115 L900 220 M1030 70 L1040 250 M1140 145 L1190 90"/>
+    <circle cx="780" cy="55" r="5" fill="#8be9f7"/>
+    <circle cx="900" cy="115" r="5" fill="#8be9f7"/>
+    <circle cx="1030" cy="70" r="5" fill="#8be9f7"/>
+    <circle cx="1140" cy="145" r="5" fill="#8be9f7"/>
+    <circle cx="1040" cy="250" r="5" fill="#8be9f7"/>
+    <circle cx="900" cy="220" r="5" fill="#8be9f7"/>
+    <circle cx="790" cy="285" r="5" fill="#8be9f7"/>
+  </g>
+  <g opacity=".16" fill="#dffaff">
+    <circle cx="840" cy="175" r="2"/><circle cx="960" cy="35" r="2"/><circle cx="1120" cy="285" r="2"/>
+    <circle cx="1165" cy="220" r="2"/><circle cx="825" cy="245" r="2"/><circle cx="1080" cy="35" r="2"/>
+  </g>
+  <text x="82" y="86" fill="#a5f3fc" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">RESEARCH PORTFOLIO</text>
+  <text x="78" y="164" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="1">YANG GAO</text>
+  <rect x="82" y="190" width="104" height="4" rx="2" fill="url(#accent)"/>
+  <text x="82" y="238" fill="#e2e8f0" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="600">COMPUTER VISION  /  IMAGE RESTORATION</text>
+  <text x="82" y="278" fill="#a8bdcf" font-family="Inter,Arial,sans-serif" font-size="17" letter-spacing="1">PHYSICS-INFORMED LEARNING · LOW-LEVEL VISION</text>
+  <text x="1115" y="310" fill="#8ca9bd" font-family="Inter,Arial,sans-serif" font-size="13" text-anchor="end">github.com/gyz0224</text>
+</svg>
