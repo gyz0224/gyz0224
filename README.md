@@ -2,7 +2,7 @@
   <img src="./assets/portfolio-banner.svg" alt="Yang Gao — Research Portfolio" width="100%" />
 </p>
 
-# Hi, I'm gyz0224
+# Hi, I'm Gao Yang
 
 **M.S. Student in Artificial Intelligence · Henan University**  
 **Research Focus:** Computer Vision · Low-Level Vision · Image Restoration
